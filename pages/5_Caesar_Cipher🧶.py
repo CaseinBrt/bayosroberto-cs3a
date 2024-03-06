@@ -67,3 +67,4 @@ if st.button("Submit"):
         st.write("Shift keys:", *shift_keys)
         st.write("Cipher:", enc)
         st.write("Decrypted text:", dec)
+        st.snow()
